@@ -3,6 +3,9 @@ import axios from "axios";
 import './App.css';
 
 //component imports will go below when finished making them, gonna make a PlayerCard and a Navbar. Will call for them now I am gonna build out app js
+import PlayerCard from "./components/PlayerCard";
+import Navbar from "./components/Navbar"
+
 
 class App extends React.Component{
   //need state
